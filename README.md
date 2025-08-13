@@ -1,24 +1,23 @@
-## Olá 👋, me chamo Rodrigo Santos! 
+# Rodrigo Santos
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/osantosrd/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-684b48286)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/osantosrd/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-684b48286)
 
-## Feliz em vê-lo aqui!
+💻 **Desenvolvedor Full Stack Júnior**  
+Foco em Front-end e interfaces bem construídas.  
+Sempre explorando novas tecnologias e buscando melhorar um pouco a cada commit. 🚀
 
-<img align="right" height="180" width="290" alt="" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
+---
 
-Olá! Eu sou Rodrigo Santos, um Desenvolvedor Júnior Full Stack apaixonado pelo Front-end. Tenho experiência em criação de sites, e estou sempre buscando aprender e explorar novas tecnologias. 🚀
+### 🛠 Principais linguagens de atuação
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-Sou um explorador de novas tecnologias, um aprendiz ávido e um solucionador de problemas por natureza. Quando não estou codando, você me encontrará assistindo vídeos relacionados à tecnologia, alimentando minha curiosidade.
+---
 
-## Linguagens e Ferramentas:
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg" alt="angular"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="figma"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="csharp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+📌 _"Cada linha de código é um passo na jornada de aprendizado."_  
