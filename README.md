@@ -3,9 +3,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/osantosrd/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-684b48286)
 
-💻 **Desenvolvedor Full Stack Júnior**  
-Foco em Front-end e interfaces bem construídas.  
-Sempre explorando novas tecnologias e buscando melhorar um pouco a cada commit. 🚀
+💻 **Desenvolvedor Full Stack**  
+Foco em Front-end e interfaces bem construídas. 🚀
 
 ---
 
